@@ -16,3 +16,5 @@ and which are just breaking even.**
 2. PL/SQL
 3. Python (numpy, pandas)
 4. Power BI (charts, DAX measures)
+
+**Data cleaning, duplicate removal, and other processes were performed in PowerQuery on the original dataset. All programs use the pre-processed dataset.**
