@@ -19,3 +19,5 @@ Hint: Revenue may be high, but profit is low due to discounts or cost price (cog
 The median is important to eliminate the influence of randomly large checks.
 9. Find the correlation (numpy.corrcoef or df.corr()) between Rating (satisfaction) and Gross Profit (profit per customer).
 If the correlation is low, this is a business conclusion for the client: "A satisfied customer is not always the most profitable."
+
+**The assignments were completed by creating a pivot table and pivot measures for each assignment separately. Each assignment was completed in a new Excel sheet.**
