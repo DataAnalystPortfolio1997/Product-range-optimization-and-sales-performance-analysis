@@ -10,3 +10,9 @@ and which are just breaking even.**
 4. Does the average order value vary depending on the day of the week or time of day? (For promotional planning).
 
 [Data link](https://drive.google.com/file/d/1N0Ytb9EyvD0gvGG1miRP8rFl81id7SBj/view?usp=drive_link)
+
+**I made this project in 4 platforms:**
+1. Excel (power query, pivot table, DAX measures, excel functions)
+2. PL/SQL
+3. Python (numpy, pandas)
+4. Power BI (charts, DAX measures)
