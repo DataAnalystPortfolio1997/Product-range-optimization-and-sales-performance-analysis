@@ -47,3 +47,5 @@ RETURN CONCATENATEX(Who_buys_more_units_of_goods, [Gender]&":  "&FORMAT([units o
 8) Who spends more money = 
 VAR Who_spends_more_money = TOPN(1, SUMMARIZE('Product Categorywise Sales', 'Product Categorywise Sales'[Gender], "money spent", SUM('Product Categorywise Sales'[Total])), [money spent], DESC)
 RETURN CONCATENATEX(Who_spends_more_money, [Gender]&":  "&FORMAT([money spent], "#,###,###.#0 $"))
+
+
