@@ -18,3 +18,15 @@ and which are just breaking even.**
 4. Power BI (charts, DAX measures)
 
 **Data cleaning, duplicate removal, and other processes were performed in PowerQuery on the original dataset. All programs use the pre-processed dataset.**
+
+**Conclusions drawn from the data analysis:**
+1. The highest average bill is for Member Customer type.
+2. The average bill on weekends is higher than on weekdays.
+3. The top 5 product lines are: Food and beverages, Sports and travel, Electronic accessories, Fashion accessories, and Home and lifestyle.
+   Their total revenue is $273,773.59, which accounts for 84.76% of total revenue.
+4. The product category that generates the highest profit is Food and beverages. Correlation between total profit and total revenue by product category = 0.99.
+5. Naypyitaw City generates the most revenue and has the highest average customer rating.
+6. Over the entire period, women spent more money and purchased more items.
+7. Normal female Customer types generated the highest median profits.
+8. The correlation between average customer ratings and the profit they generate is -0.0364 (there is no relationship between these metrics).
+   This means that a satisfied customer is not always the most profitable.
